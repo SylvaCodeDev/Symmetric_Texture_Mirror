@@ -24,7 +24,7 @@ HOW TO USE
 8. Export the final mesh from Blender with File > Export > glTF 2.0 (.glb),
    or another format of your choice. Export is intentionally not automatic.
 
-CANCEL / REVERSIBILITY
+PREVIEW / REVERSIBILITY
 - Turn OFF 'Live Preview' to discard the preview and restore the original.
 - Before Generate, nothing about the source geometry or original UVs is edited.
 - Generate is destructive to the source OBJECT, so save a .blend backup first.
